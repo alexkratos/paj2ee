@@ -1,4 +1,6 @@
 class Git {
-	
-	System.out.println("Git test");
+	 public static void main(String[] args) 
+	    { 
+	        System.out.println("Git test"); 
+	    } 
 }
